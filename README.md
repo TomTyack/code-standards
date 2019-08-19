@@ -1,4 +1,4 @@
-#  Isobar Front-end Development Standards and Guidelines
+#  Front-end Development Standards and Guidelines
 
 ## License:
 
